@@ -24,4 +24,4 @@ To begin your journey into the unknown, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dark-matter.git
+   git clone https://github.com/Lentoaraf0/dark-matter
