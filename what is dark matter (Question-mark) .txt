@@ -1,0 +1,14 @@
+*** Dark Matter
+   <---------->
+is a word scramble game that will test your ability to recognize patterns and solve puzzles. With each round, you’re given a scrambled word, and your task is to unscramble it to find the original word. The game features random words from various categories, ensuring that each round is unique.
+
+As you progress, the difficulty increases, and new challenges await. Each correct answer brings you closer to mastering the game, but be prepared—the shadows will always hide something new.
+
+Features:
+
+Random Word Scrambles: Each round gives you a new scrambled word to guess.
+Increasing Difficulty: As you play, the puzzles get more challenging.
+Simple and Engaging: A clean, minimal interface that lets you focus on solving the puzzles.
+Score Tracking: Keep track of your progress and see how many words you can unscramble.
+Dark Matter is not just a game—it's a journey into a world of mystery and challenge. Can you navigate the void and uncover what lies hidden in the darkness?
+
